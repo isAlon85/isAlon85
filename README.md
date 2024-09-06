@@ -1,35 +1,28 @@
-### Hi, I'm Israel Alonso 👋
-<a href="https://www.linkedin.com/in/israel-alonso-nino/" target="_blank"><img src="img/linkedin-icon-2.svg" width="30" height="30"></a>
-<a href="mailto:ianstry85@gmail.com"><img src="img/official-gmail-icon-2020-.svg" width="30" height="30"></a>
-<h1 align="center">Web Developer</h1>
-<h2 align="center">Learning at OpenBootcamp</h2>
+# Hi there, I'm Israel Alonso 👋
 
-### Languages
-<a target="_blank"><img src="img/java.svg" width="40" height="40"></a>
-<a target="_blank"><img src="img/logo-javascript.svg" width="40" height="40"></a>
-<a target="_blank"><img src="img/html-1.svg" width="40" height="40"></a>
-<a target="_blank"><img src="img/css-3.svg" width="40" height="40"></a>
+I’m a **Front-End Web Developer** with **4 years of experience**, specializing in **JavaScript**, **TypeScript**, and the **React** framework. I’m passionate about creating high-quality web applications and user experiences, always aiming to stay up to date with the latest technologies to build responsive, accessible, and scalable solutions.
 
-### Frameworks
-<a target="_blank"><img src="img/react-2.svg" width="40" height="40"></a>
-<a target="_blank"><img src="img/spring-3.svg" width="40" height="40"></a>
-<a target="_blank"><img src="img/bootstrap-5-1.svg" width="40" height="40"></a>
-<a target="_blank"><img src="img/hibernate.svg" width="40" height="40"></a>
+## 🛠️ Technologies & Tools
 
-### DataBase
-<a target="_blank"><img src="img/postgresql.svg" width="40" height="40"></a>
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Frameworks**: React, Next.js
+- **State Management**: Redux, Context API
+- **Styling**: CSS, SCSS, Styled-Components, Tailwind CSS, Bootstrap
+- **Build Tools**: Webpack, Vite, Babel
+- **Version Control**: Git, GitHub
+- **Other Tools**: Figma, Postman, Chrome DevTools
 
-<!--
-**isAlon85/isAlon85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I’m working on
 
-Here are some ideas to get you started:
+- Improving my knowledge of **React Hooks** and **Context API** for state management.
+- Learning more about **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** with **Next.js**.
+- Exploring more advanced **TypeScript** patterns for React development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/israel-alonso-nino/))
+- [Email](mailto:ianstry85@gmail.com)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
